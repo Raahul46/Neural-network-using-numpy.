@@ -4,9 +4,13 @@
 A neural network coded from scratch including the derivates during back propagation that can be used for binary classification.
 
 Activation function: Sigmoid
+
 Output function    : Sigmoid(Binary classification)
+
 Loss function      : Mean squared error
+
 Initialization     : Random 
+
 Weight update      : Vanilla Gradient descent
 
 Architecture
@@ -24,10 +28,15 @@ Mean Squared error
 A full functioning vectorized simple neural network coded from scratch that is used to on the iris dataset(Multi-class classification) to produce a validation accuracy over "96%"
 
 Activation function: Sigmoid, Tanh, Relu and Leaky relu
+
 Output function    : Softmax
+
 Loss function      : Cross entropy
+
 Initialization     : Random, Xavier and He
+
 Weight update      : Vanilla Gradient descent 
+
 Extras             : L2 Normalization
 
 

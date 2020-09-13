@@ -50,5 +50,7 @@ snip
 
 Further work:
 Gradient descent     : Momentum based GD, Nestrov accelerated GD, Adagrad, RMSprop and Adam
+
 Strategy             : Mini Batch, Batch and Stochastic 
+
 Extras               : Early stopping, Adding noise filter
